@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/haku/filter/CookieFilter.java=UTF-8
+encoding//src/com/haku/filter/JDBCFilter.java=UTF-8
+encoding//src/com/haku/servlet/DeleteProductServlet.java=UTF-8
+encoding//src/com/haku/servlet/DoCreateProductServlet.java=UTF-8
+encoding//src/com/haku/servlet/DoEditProductServlet.java=UTF-8
+encoding//src/com/haku/servlet/DologinServlet.java=UTF-8
+encoding//src/com/haku/servlet/EditProductServlet.java=UTF-8
+encoding//src/com/haku/servlet/UserInforServlet.java=UTF-8
+encoding//src/com/haku/utils/MyUtils.java=UTF-8
